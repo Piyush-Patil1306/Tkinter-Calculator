@@ -38,9 +38,9 @@ This project helped me understand:
 ```
 Tkinter-Calculator/
 │
-├── calculator.py       # Main calculator program
+├── Scientific_calculator.py       # Main calculator program
 ├── README.md           # Project documentation
-└── requirements.txt    # Required packages (if any)
+
 ```
 
 ## 🚀 How to Run
@@ -64,8 +64,9 @@ python calculator.py
 ```
 
 ## 📸 Screenshot
+<img width="466" height="671" alt="image" src="https://github.com/user-attachments/assets/6cebd72b-57f6-4191-bcba-9be7de857547" />
 
-(Add your calculator screenshot here)
+
 
 Example:
 
